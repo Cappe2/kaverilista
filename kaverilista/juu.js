@@ -1,4 +1,7 @@
+var lisääkaveri = [];
+document.getElementById("demo")
+
 function lisää() {
-    var x = document.getElementById("nimi").innerHTML = "k"
-    document.getElementById("nimet").innerHTML = x;
+    lisääkaveri.push("lisääkaveri")
+    
 }
